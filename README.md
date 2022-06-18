@@ -1,3 +1,5 @@
+Hi there 👋
+I'm Danilo, I'm a Software Engineer at CAIXA in Brasilia Brazil, and I've been working in tech since 2006.
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/danilolopesabreu) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@danilolopesabreu) 
